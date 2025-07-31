@@ -1,3 +1,6 @@
+package Question_1;
+import java.util.*;
+
 public class BankPINSecurity {
     
     public static int strongPINChanges(String pinCode) {
